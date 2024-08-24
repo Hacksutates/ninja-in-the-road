@@ -1,4 +1,4 @@
-# ninja_in_the_road
+# ninja in the road
 first own game
 
 movement:
